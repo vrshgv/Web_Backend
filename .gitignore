@@ -1,2 +1,4 @@
 *.idea
 classwork/
+node_modules/
+vendor/
